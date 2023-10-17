@@ -1,5 +1,5 @@
 # Java RESTful API
-Java RESTful API Santander Bootcamp 2023.
+Java RESTful API para o Santander Bootcamp 2023.
 
 ## Diagrama de Classes
 
